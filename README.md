@@ -19,6 +19,9 @@ Simple Age and Gender detector using machine learning.
 ## Sample Outputs:
 ### Sample Output 1:
 [sample output1](https://github.com/PallaviAvula/Age_Gender_Detector/blob/main/Output_Image_1.PNG)
+### Sample Output 2:
 [sample output2](https://github.com/PallaviAvula/Age_Gender_Detector/blob/main/Output_Image_2.PNG)
+### Sample Output 3:
 [sample output3](https://github.com/PallaviAvula/Age_Gender_Detector/blob/main/Output_Image_3.PNG)
+### Sample Output 4:
 [sample output4](https://github.com/PallaviAvula/Age_Gender_Detector/blob/main/Output_Image_4.PNG)
